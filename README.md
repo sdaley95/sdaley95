@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shakeil
-- 👀 I’m interested in marketing and finance
-- 🌱 I’m currently developing my skills as a data analyst
-- 💞️ I’m looking to collaborate with other analysts with a couple years of exoerience
-- 📫 How to reach me:
+-  I’m interested in marketing and finance
+-  I’m currently developing my skills as a data analyst
+-  I’m looking to collaborate with other analysts with a couple years of experience
+-  How to reach me:
 -      📱443-297-2723
        ✉️shakeildaley1@gmail.com
        💻www.linkedin.com/in/shakeildaley
